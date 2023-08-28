@@ -11,7 +11,7 @@ export const navLinks = [
 export const shoes = [
     {
         thumbnail: thumbnailShoe1,
-        bigShoe: bigShoe1,
+        bigShoe: bigShoe1
     },
     {
         thumbnail: thumbnailShoe2,
